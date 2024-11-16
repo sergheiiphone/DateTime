@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\itayo\Downloads\DateTime\DateTime\DateTime\main.cpp(19,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DateTime.vcxproj -> C:\Users\itayo\Downloads\DateTime\DateTime\x64\Debug\DateTime.exe
